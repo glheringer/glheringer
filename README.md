@@ -9,6 +9,10 @@ I'm a mid-level Front-end developer with 3 years of experience and a specializat
 - **Front-end Developer**: Experience with HTML, CSS, and JavaScript to create dynamic and responsive web interfaces.
 - **Currently refining** my React knowledge: Always studying Redux, AsyncStorage, and Context API to enhance my skills and deliver even more effective solutions.
 
+## 💼 I'm Looking For
+
+I am currently seeking new opportunities to apply my skills and continue my professional growth. If you are looking for a passionate and dedicated front-end developer with 3 years of experience, I would love to connect and explore possibilities!
+
 ## 🛠 Skills & Expertise
 
 - **React Native**: Building high-quality, dynamic mobile applications.
@@ -18,13 +22,18 @@ I'm a mid-level Front-end developer with 3 years of experience and a specializat
 - **Scrum**: Applying Agile methodologies to manage and deliver projects effectively.
 - **Kanban**: Using visual workflows to optimize and streamline task management.
 
-## 💼 I'm Looking For
-
-I am currently seeking new opportunities to apply my skills and continue my professional growth. If you are looking for a passionate and dedicated front-end developer with 3 years of experience, I would love to connect and explore possibilities!
+## 📉 Stats
+<div>
+<a href="https://github.com/glheringer">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glheringer&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=glheringer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 
 ## 📫 Let's Connect!
+<a href="(https://www.linkedin.com/in/guilherme-heringer-a9118a16a/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:contato@guilhermeheringer1999@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- [LinkedIn]([(https://www.linkedin.com/in/guilherme-heringer-a9118a16a/)](https://www.linkedin.com/in/guilherme-heringer-a9118a16a/))
 
 Feel free to explore my projects and reach out!
 
