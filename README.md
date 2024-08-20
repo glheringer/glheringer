@@ -31,7 +31,7 @@ I am currently seeking new opportunities to apply my skills and continue my prof
   
 
 ## 📫 Let's Connect!
-<a href="(https://www.linkedin.com/in/guilherme-heringer-a9118a16a/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-heringer-a9118a16a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:contato@guilhermeheringer1999@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
