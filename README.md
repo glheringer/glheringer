@@ -22,7 +22,7 @@ I am currently seeking new opportunities to apply my skills and continue my prof
 - **Scrum**: Applying Agile methodologies to manage and deliver projects effectively.
 - **Kanban**: Using visual workflows to optimize and streamline task management.
 
-## 📉 Stats
+## 📉 Status
 <div>
 <a href="https://github.com/glheringer">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glheringer&layout=compact&langs_count=7&theme=dracula"/>
