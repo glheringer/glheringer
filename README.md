@@ -25,7 +25,7 @@ I am currently seeking new opportunities to apply my skills and continue my prof
 ## 📉 Status
 <div>
 <a href="https://github.com/glheringer">
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=glheringer&layout=compact&theme=dracula)"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glheringer&layout=compact&theme=dracula"/>
 </div>
   
 
