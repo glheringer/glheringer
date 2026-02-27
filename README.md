@@ -1,7 +1,7 @@
 # Hi! I'm Guilherme Heringer 👋
 
 
-I'm a mid-level Front-end developer with 3 years of experience and a specialization in mobile development using React Native. With solid experience in creating interactive and responsive interfaces, my passion is building applications that deliver exceptional user experiences.
+I'm a mid-level Front-end developer with 4 years of experience and a specialization in mobile development using React Native. With solid experience in creating interactive and responsive interfaces, my passion is building applications that deliver exceptional user experiences.
 
 ## 🌟 About Me
 
