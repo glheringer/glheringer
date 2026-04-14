@@ -1,7 +1,7 @@
 # Hi! I'm Guilherme Heringer 👋
 
 
-I'm a mid-level Front-end developer with 3 years of experience and a specialization in mobile development using React Native. With solid experience in creating interactive and responsive interfaces, my passion is building applications that deliver exceptional user experiences.
+I'm a mid-level Front-end developer with 4 years of experience and a specialization in mobile development using React Native. With solid experience in creating interactive and responsive interfaces, my passion is building applications that deliver exceptional user experiences.
 
 ## 🌟 About Me
 
@@ -11,7 +11,7 @@ I'm a mid-level Front-end developer with 3 years of experience and a specializat
 
 ## 💼 I'm Looking For
 
-I am currently seeking new opportunities to apply my skills and continue my professional growth. If you are looking for a passionate and dedicated front-end developer with 3 years of experience, I would love to connect and explore possibilities!
+I am currently seeking new opportunities to apply my skills and continue my professional growth. If you are looking for a passionate and dedicated front-end developer with 4 years of experience, I would love to connect and explore possibilities!
 
 ## 🛠 Skills & Expertise
 
@@ -27,9 +27,15 @@ I am currently seeking new opportunities to apply my skills and continue my prof
 <a href="https://github.com/glheringer">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glheringer&layout=compact&theme=dracula"/>
 </div>
-  
 
 ## 📫 Let's Connect!
+
+Checkout my portfolio!
+
+https://glheringer.site/
+
+or 
+
 <a href="https://www.linkedin.com/in/glheringer/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:contato@guilhermeheringer1999@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
